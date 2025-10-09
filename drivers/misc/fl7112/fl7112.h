@@ -1,5 +1,3 @@
-/* SPDX-License-Identifier: GPL-2.0 */
-
 #ifndef __FL7112_H_
 #define __FL7112_H_
 
